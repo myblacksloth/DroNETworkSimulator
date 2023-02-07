@@ -1,5 +1,29 @@
 # DroNET - Autonomous Networking 2022-2023
 
+## Installazione
+
+Ubuntu 20.x
+
+Install Pyhon 3.7
+https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/
+
+then
+
+```bash
+pip3 install -r requirements.txt 
+```
+
+```bash
+ERROR: Command errored out with exit status 1...
+```
+
+```bash
+sudo apt install python-pygame
+sudo apt install python3.7-tk
+sudo apt install python3-tqdm
+
+```
+
 ## What is DroNET?
 DroNET is a Python based simulator for experimenting routing algorithms and mobility models on unmanned aerial vehicle 
 networks. 
